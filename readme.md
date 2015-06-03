@@ -3,7 +3,7 @@
 The customizer allows WordPress developers to add options for themes and plugins, but a sandbox is helpful to understand how to.
 This sandbox repository is a result, additional source to my session on [WordCamp Cologne MMXV](https://cologne.wordcamp.org/2015/) - slides are here - [bueltge.de/wordpress-customizing](http://bueltge.de/wordpress-customizing/).
 
-Instead of adding options to the $wp_customize object directly, developers can just define an array of controls and sections and pass it to the Customizer_Library class.
+Instead of adding options to the `$wp_customize` object directly, developers can just define an array of controls and sections and pass it to the `Customizer_Library` class.
 
 The Customizer Library adds panels, sections, settings and controls to the customizer based on the array that gets passed to it. There is default sanitization for all options. Also it is possible to define custom callbacks. All options are also saved by default as theme_mods. But the customizer is much more and this sandbox show you examples, currently 
 
@@ -16,7 +16,7 @@ Clone or download the source, activate as plugin and done.
 
 ## Other Notes
 ###Crafted by [Inpsyde](http://inpsyde.com) · Engineering the web since 2006.###
-Yes, we also run that [marketplace for premium WordPress plugins and themes](http://marketpress.com).
+We realize your WordPress project. But yes, we also run that [marketplace for premium WordPress plugins and themes](http://marketpress.com).
 
 ### Bugs, technical hints or contribute
 Please give me feedback, contribute and file technical bugs on this 
