@@ -13,7 +13,7 @@ The Customizer Library adds panels, sections, settings and controls to the custo
 
 ## Screenshots
 Customize the Login Screen  
-![Customizing of the login screen][./customize-login.png]
+![Customizing of the login screen](./customize-login.png)
 
 ## Installation
 Clone or download the source, activate as plugin and done.
