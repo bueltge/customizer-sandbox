@@ -11,7 +11,7 @@ The Customizer Library adds panels, sections, settings and controls to the custo
  * Remove, Filter Sections from Default
  * Custom Controls are here: [github.com/bueltge/WordPress-Theme-Customizer-Custom-Controls](https://github.com/bueltge/WordPress-Theme-Customizer-Custom-Controls)
  
- * Also helpful is [this library](https://github.com/WPTRT/code-examples/tree/master/customizer) wiht much more examples about the defaults and custom controls from Chip Bennett.
+ * Also helpful is [this library](https://github.com/WPTRT/code-examples/tree/master/customizer) with much more examples about the defaults, like settings, settings, panels, sanitanization core controls and custom controls from Chip Bennett.
 
 ## Screenshots
 Customize the Login Screen  
