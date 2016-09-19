@@ -13,6 +13,8 @@ The Customizer Library adds panels, sections, settings and controls to the custo
  
  * Also helpful is [this library](https://github.com/WPTRT/code-examples/tree/master/customizer) with much more examples about the defaults, like settings, settings, panels, sanitanization core controls and custom controls from Chip Bennett.
  * [Great overview by Eric Lewis to an awesome API.](https://gist.github.com/ericandrewlewis/2310fd6d7dabf0696965)
+ 
+ * [Extend WP Customize JS Methods](http://wordpress.stackexchange.com/questions/157280/is-it-possible-to-extend-wp-customize-js-methods/208103#208103) 
 
 ## Screenshots
 Customize the Login Screen  
