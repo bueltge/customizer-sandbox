@@ -24,8 +24,7 @@ Customize the Login Screen
 Clone or download the source, activate as plugin and done.
 
 ## Other Notes
-**Crafted by [Inpsyde](http://inpsyde.com) · Engineering the web since 2006.**
-We realize your WordPress project. But yes, we also run that [marketplace for premium WordPress plugins and themes](http://marketpress.com).
+Crafted by [Inpsyde](https://inpsyde.com) · Engineering the web since 2006.
 
 ### Bugs, technical hints or contribute
 Please give me feedback, contribute and file technical bugs on this 
@@ -36,7 +35,7 @@ Good news, this plugin is free for everyone! Since it's released under the GPL,
 you can use it free of charge on your personal or commercial blog.
 
 ### Contact & Feedback
-The plugin is designed and developed by me [Frank Bültge](http://bueltge.de), [G+ Page](https://plus.google.com/111291152590065605567/about?rel=author)
+The plugin is designed and developed by me [Frank Bültge](https://bueltge.de)
 
 Please let me know if you like the plugin or you hate it or whatever ... 
 Please fork it, add an issue for ideas and bugs.
