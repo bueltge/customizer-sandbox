@@ -24,7 +24,7 @@ Customize the Login Screen
 Clone or download the source, activate as plugin and done.
 
 ## Other Notes
-###Crafted by [Inpsyde](http://inpsyde.com) · Engineering the web since 2006.###
+**Crafted by [Inpsyde](http://inpsyde.com) · Engineering the web since 2006.**
 We realize your WordPress project. But yes, we also run that [marketplace for premium WordPress plugins and themes](http://marketpress.com).
 
 ### Bugs, technical hints or contribute
